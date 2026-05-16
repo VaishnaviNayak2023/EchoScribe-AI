@@ -1,0 +1,10 @@
+{
+  "name": "EchoScribe AI",
+  "description": "Professional audio transcription service powered by Gemini AI. Record, transcribe, summarize, and export with ease.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
