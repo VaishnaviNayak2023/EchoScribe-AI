@@ -343,7 +343,7 @@ Deploy using:
 
 ## Database
 Use:
-- Supabase PostgreSQL
+- Firebase
 
 ---
 
