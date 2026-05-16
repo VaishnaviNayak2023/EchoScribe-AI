@@ -5,7 +5,7 @@ AI-powered mobile audio transcription and summarization app built with Google Ge
 EchoScribe AI enables users to record, transcribe, summarize, translate, and manage audio conversations, meetings, lectures, interviews, podcasts, and voice notes using advanced AI-powered speech recognition and natural language processing.
 
 ---
-
+# Live Deployed Link: echoscribeai.netlify.app
 ## Features
 
 ### Audio Recording
